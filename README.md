@@ -2,14 +2,13 @@
 
 <img src="public/assets/images/website.jpg" alt="Project Banner">
 
-**Set Up Environment Variables**
-
-Create a new file named `.env` in the root of your project and add the following content:
-
-<br/>
 <br/>
 
 <hr/>
+
+**Set Up Environment Variables**
+
+Create a new file named `.env` in the root of your project and add the following content:
 
 ```env
 #NEXT
