@@ -6,6 +6,11 @@
 
 Create a new file named `.env` in the root of your project and add the following content:
 
+<br/>
+<br/>
+
+<hr/>
+
 ```env
 #NEXT
 NEXT_PUBLIC_SERVER_URL=
