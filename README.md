@@ -1,4 +1,4 @@
-# Evently with Next.js, TypeScript, Stripe
+# Event Platform with Next.js, TypeScript, Stripe
 
 <img src="public/assets/images/website.jpg" alt="Project Banner">
 
